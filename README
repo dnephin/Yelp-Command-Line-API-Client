@@ -1,0 +1,6 @@
+
+Instructions:
+
+1. Register for yelp API keys at http://www.yelp.com/developers
+2. Add your keys to auth.py
+3. run python main.py
